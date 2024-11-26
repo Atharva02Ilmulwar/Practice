@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: inherit;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    padding: 20px;
+
+}
+.btn{
+    padding: 2px 4px;
+    
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+.txtip{
+    padding: 3px 5px;
+    margin: 3px;
+
+}
+
+.whattodo{
+    height: inherit;
+    width: inherit;
+}
